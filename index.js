@@ -2,7 +2,7 @@ const fetch = require('node-fetch');
 const readlineSync = require('readline-sync');
 const { URLSearchParams } = require('url');
 
-console.log('\nBOT SPAM MAIL MOBILE LEGENDS\nANDHIKA DWI MAULANA\nSGBTEAM 2020\n');
+console.log('\nBOT SPAM MAIL MOBILE LEGENDS\nBY\nSGBTEAM 2020\n');
 
 var userid   = readlineSync.question("[+] ID ML : ");
 const jmlh  = readlineSync.question("[+] Jumlah : ");
